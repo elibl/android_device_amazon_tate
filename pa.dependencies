@@ -6,14 +6,14 @@
     "revision":	    "cm-11.0"
   },
   {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_device_amazon_omap4-common",
+    "remote":       "github",
+    "repository":   "KFire-Android/android_device_amazon_omap4-common",
     "target_path":  "device/amazon/omap4-common",
     "revision":	    "cm-11.0"
   },
   {
     "remote":       "github",
-    "repository":   "jb2kred/android_kernel_amazon_bowser-common",
+    "repository":   "KFire-Android/android_kernel_amazon_bowser-common",
     "target_path":  "kernel/amazon/bowser-common",
     "revision":	    "cm-11.0"
   },
