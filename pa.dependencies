@@ -7,7 +7,7 @@
   },
   {
     "remote":       "github",
-    "repository":   "elilb/android_device_amazon_omap4-common",
+    "repository":   "elilbl/android_device_amazon_omap4-common",
     "target_path":  "device/amazon/omap4-common",
     "revision":	    "kitkat"
   },
